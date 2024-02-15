@@ -57,8 +57,14 @@ export default function BaseLayout() {
             width={"100%"}
           >
             <p>
-              template created with &hearts; by{" "}
-              <a href={"https://paytonpierce.dev"}>Payton Pierce</a>
+              CopyRight &hearts; by{" "}
+              <a
+                href={"https://github.com/iamkingken"}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                iamkingken
+              </a>
             </p>
             <p>&copy; 2023</p>
           </Box>
