@@ -119,33 +119,33 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
-      title: "Project 1",
-      live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-      source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+      title: "City Estate",
+      live: "https://cityestate-vhyw.onrender.com/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      source: "https://github.com/iamkingken", // this should be a link to the **repository** of the project, where the code is hosted.
       image: mock1,
     },
     {
-      title: "Project 2",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "City Blog",
+      live: "https://iamkingken.netlify.app/",
+      source: "https://github.com/iamkingken",
       image: mock2,
     },
     {
-      title: "Project 3",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "My Porfolio",
+      live: "https://iamkingken.netlify.app/",
+      source: "https://github.com/iamkingken",
       image: mock3,
     },
     {
-      title: "Project 4",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "E-commerce Web-App",
+      live: "https://iamkingken.netlify.app/",
+      source: "https://github.com/iamkingken",
       image: mock4,
     },
     {
-      title: "Project 5",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "Strapi Blog",
+      live: "https://iamkingken.netlify.app/",
+      source: "https://github.com/iamkingken",
       image: mock5,
     },
   ],
