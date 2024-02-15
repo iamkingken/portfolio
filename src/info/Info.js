@@ -77,11 +77,11 @@ export const info = {
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
-  bio: "Experienced Front-End Developer proficient in React, Tailwind CSS, HTML, CSS, and JavaScript (ES6). Specialized in creating dynamic and visually appealing web applications. Skilled in Strapi for content management and backend development. Adept at optimizing website performance, ensuring responsive design, and integrating e-commerce solutions. Collaborative and client-focused, committed to delivering high-quality, user-friendly websites. Keen on staying current with industry trends and a zealous problem solver.",
+  bio: "Experienced MERN stack Developer proficient in React, Tailwind CSS, HTML, CSS, and JavaScript (ES6). Specialized in creating dynamic and visually appealing web applications. Skilled in Strapi for content management and backend development, with expertise in MongoDB for database management. Experienced in building robust RESTful APIs using Express and Node.js, ensuring seamless communication between the front-end and back-end. Adept at optimizing website performance, ensuring responsive design, and integrating e-commerce solutions. Collaborative and client-focused, committed to delivering high-quality, user-friendly websites. Keen on staying current with industry trends and a zealous problem solver.",
   skills: {
     proficientWith: [
       "javascript",
-      "npm",
+      "React",
       "JOSN",
       "Scss",
       "react",
@@ -90,11 +90,11 @@ export const info = {
       "Express",
       "tailwind CSS",
       "html5",
-      "css3",
-      "figma",
+      "Nodejs",
+      "MongoDB",
       "strapi",
     ],
-    exposedTo: ["nodejs", "mongoDB", "FireBase", "TypeScript"],
+    exposedTo: ["sql", "insomia", "FireBase", "TypeScript"],
   },
   hobbies: [
     {
@@ -126,7 +126,7 @@ export const info = {
     },
     {
       title: "City Blog",
-      live: "https://iamkingken.netlify.app/",
+      live: "https://city-blog.onrender.com/",
       source: "https://github.com/iamkingken",
       image: mock2,
     },
@@ -137,7 +137,7 @@ export const info = {
       image: mock3,
     },
     {
-      title: "E-commerce Web-App",
+      title: "E-commerce App",
       live: "https://iamkingken.netlify.app/",
       source: "https://github.com/iamkingken",
       image: mock4,
