@@ -25,7 +25,7 @@ export const info = {
   firstName: "Kenneth",
   lastName: "Ekerette",
   initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-  position: "a FrontEnd Developer",
+  position: "a full Stack Developer",
   selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
   gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
   baseColor: colors[0],
@@ -33,7 +33,7 @@ export const info = {
     // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
     {
       emoji: "📂",
-      text: "let's connect",
+      text: "(MERN stack)",
     },
     {
       emoji: "🌎",
@@ -50,12 +50,12 @@ export const info = {
   ],
   socials: [
     {
-      link: "https://facebook.com",
+      link: "https://facebook.com/k.ekerette",
       icon: "fa fa-facebook",
       label: "facebook",
     },
     {
-      link: "https://instagram.com",
+      link: "https://instagram.com/i_am_kingken",
       icon: "fa fa-instagram",
       label: "instagram",
     },
